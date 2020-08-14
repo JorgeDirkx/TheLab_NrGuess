@@ -1,0 +1,3 @@
+Guess a number, 5 attempts, both the random number generated and your guess are stored in arrays.
+
+Using separate Utility class.
